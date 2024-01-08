@@ -149,15 +149,15 @@ Here are some key insights from the EDA:
 =============================================================
 
 Comparison of all the models:
-
-Model	                Mean Squared Error (MSE)	Mean Absolute Error (MAE)	R-squared
-Linear Regression	    414.98	                    6.47	                    0.0202
-Decision Tree	        434.15	                    6.56	                    -0.0251
-Decision Tree (Tuned)	417.11	                    6.46	                    0.0152
-Random Forest	        416.87	                    6.45	                    0.0158
-GBM	                    409.18	                    6.32	                    0.0339
-Ridge Regression	    414.93	                    6.47	                    0.0203
-Lasso Regression	    421.50	                    6.60	                    0.0048
+|Model |Mean Squared Error (MSE) |Mean Absolute Error (MAE) |R-squared|
+|:------------|:------------|:------------|:------------|
+|Linear Regression |414.98 |6.47 |0.0202|
+|Decision Tree |434.15 |6.56|-0.0251|
+|Decision Tree (Tuned) |417.11 |6.46 |0.0152|
+|Random Forest |416.87 |6.45 |0.0158
+|GBM |409.18 |6.32 |0.0339|
+|Ridge Regression| 414.93 |6.47 |0.0203|
+|Lasso Regression |421.50 |6.60 |0.0048|
 
 =============================================================
 ## Analysis
