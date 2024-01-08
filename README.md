@@ -59,6 +59,7 @@ The dataset was created by two students Lorena Casanova Lozano and Sergio Costa 
     |
     ├── Slides- Sprint 1.pdf                <- Project presentation 1 
     ├── Slides- Sprint 2.pdf                <- Project presentation 2 
+    ├── Slides- Sprint 3.pdf                <- Project presentation 3
     |
     ├── books_1.Best_Books_Ever.csv         <- Original dataset
     ├── cleaned_books_data.csv              <- Cleaned dataset (after EDA)
